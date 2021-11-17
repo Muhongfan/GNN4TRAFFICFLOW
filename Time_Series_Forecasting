@@ -1,0 +1,35 @@
+##What is Data Quality?
+Data quality refers to the development and implementation of activities that apply quality management techniques to data in order to ensure the data is fit to serve the specific needs of an organization in a particular context.
+Data that is deemed fit for its intended purpose is considered high quality data.
+
+##Data Quality Dimensions
+By which metrics do we measure data quality?
+There are six main dimensions of data quality:
+accuracy, completeness, consistency, validity, uniqueness, and timeliness.
+
+Accuracy: The data should reflect actual, real-world scenarios; the measure of accuracy can be confirmed with a verifiable source.
+Completeness: Completeness is a measure of the data’s ability to effectively deliver all the required values that are available.
+Consistency: Data consistency refers to the  uniformity of data as it moves across networks and applications. The same data values stored in difference locations should not conflict with one another.
+Validity: Data should be collected according to defined business rules and parameters, and should conform to the right format and fall within the right range.
+Uniqueness: Uniqueness ensures there are no duplications or overlapping of values across all data sets. Data cleansing and deduplication can help remedy a low uniqueness score.
+Timeliness: Timely data is data that is available when it is required. Data may be updated in real time to ensure that it is readily available and accessible.
+
+##How to Improve Data Quality
+Data quality measures can be accomplished with data quality tools, which typically provide data quality management capabilities such as:
+
+Data profiling - The first step in the data quality improvement process is understanding your data. Data profiling is the initial assessment of the current state of the data sets.
+Data Standardization - Disparate data sets are conformed to a common data format.
+Geocoding - The description of a location is transformed into coordinates that conform to U.S. and worldwide geographic standards
+Matching or Linking - Data matching identifies and merges matching pieces of information in big data sets.
+Data Quality Monitoring - Frequent data quality checks are essential. Data quality software in combination with machine learning can automatically detect, report, and correct data variations based on predefined business rules and parameters.
+Batch and Real time - Once the data is initially cleansed, an effective data quality framework should be able to deploy the same rules and processes across all applications and data types at scale.
+
+##Data Quality vs Data Integrity
+Data quality oversight is just one component of data integrity.
+Data integrity refers to the process of making data useful to the organization.
+The four main components of data integrity include:
+
+Data Integration: data from disparate sources must be seamlessly integrated.
+Data Quality: Data must be complete, unique, valid, timely, consistent, and accurate.
+Location Intelligence: Location insights adds a layer of richness to data and makes it more actionable. ‍
+Data Enrichment: Data enrichment adds a more complete, contextualized view of data by adding data from external sources, such as customer data, business data, location data, etc
